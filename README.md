@@ -1,2 +1,2 @@
-# spring-security
-spring security related projects
+# Spring Security Repo
+All Spring Security projects
